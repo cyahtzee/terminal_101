@@ -11,6 +11,8 @@ rm -rf => forced remove directory
 mv filename folder_name => moves file into a folder
 mv file_name file_name => rename
 code . => opens folder in vs code
+cd ~/<path from home directory>
+cd ../reletive path from where you are
 
 
 git init => start git in a project
@@ -20,6 +22,8 @@ git commit -m "Meaningful message"
 git push origin master
 git diff filename
 git log
+git clone <github_ssh_clone_url> => create a local repository form fork
 git lg => check all my commits
+git push <remote> <branch>
 git remote -v => check connections to remote repositories
 gh repo create project_name => creates new repository on github
