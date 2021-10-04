@@ -1,0 +1,25 @@
+pwd => present working directory
+ls => list the content
+ll => verbose
+cd folder_name => move into a folder_name
+cd .. => move back to parent folder
+cd, ~
+mkdir => cretes new folder
+rm filename => removes a file
+rm -f => forced remove file
+rm -rf => forced remove directory
+mv filename folder_name => moves file into a folder
+mv file_name file_name => rename
+code . => opens folder in vs code
+
+
+git init => start git in a project
+git status  => checks files that have been added or changed
+git add filename filename
+git commit -m "Meaningful message"
+git push origin master
+git diff filename
+git log
+git lg => check all my commits
+git remote -v => check connections to remote repositories
+gh repo create project_name => creates new repository on github
